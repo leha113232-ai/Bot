@@ -1,0 +1,690 @@
+2026-06-26 19:24:51,106 | INFO     | neterror | База данных инициализирована.
+2026-06-26 19:24:51,338 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 19:24:51,338 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 19:24:55,005 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 19:24:55,108 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 19:25:01,360 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 19:25:12,262 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 19:25:12,729 | INFO     | aiogram.event | Update id=731707377 is handled. Duration 480 ms by bot id=8665885053
+2026-06-26 19:25:17,217 | INFO     | aiogram.event | Update id=731707378 is handled. Duration 308 ms by bot id=8665885053
+2026-06-26 19:25:19,087 | INFO     | aiogram.event | Update id=731707379 is handled. Duration 230 ms by bot id=8665885053
+2026-06-26 19:25:23,729 | INFO     | aiogram.event | Update id=731707380 is handled. Duration 126 ms by bot id=8665885053
+2026-06-26 19:25:26,745 | INFO     | aiogram.event | Update id=731707381 is handled. Duration 237 ms by bot id=8665885053
+2026-06-26 19:25:28,012 | INFO     | aiogram.event | Update id=731707382 is handled. Duration 297 ms by bot id=8665885053
+2026-06-26 19:25:31,305 | INFO     | aiogram.event | Update id=731707383 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 19:25:32,510 | INFO     | aiogram.event | Update id=731707384 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 19:25:35,070 | INFO     | handlers.payments | PURCHASE | 5561036312 купил forever ($150)
+2026-06-26 19:25:35,321 | INFO     | aiogram.event | Update id=731707385 is handled. Duration 434 ms by bot id=8665885053
+2026-06-26 19:25:46,213 | INFO     | aiogram.event | Update id=731707386 is handled. Duration 232 ms by bot id=8665885053
+2026-06-26 19:25:47,365 | INFO     | aiogram.event | Update id=731707387 is handled. Duration 244 ms by bot id=8665885053
+2026-06-26 19:25:49,126 | INFO     | aiogram.event | Update id=731707388 is handled. Duration 230 ms by bot id=8665885053
+2026-06-26 19:25:50,646 | INFO     | aiogram.event | Update id=731707389 is handled. Duration 226 ms by bot id=8665885053
+2026-06-26 19:25:57,094 | INFO     | aiogram.event | Update id=731707390 is handled. Duration 230 ms by bot id=8665885053
+2026-06-26 19:27:10,009 | INFO     | aiogram.event | Update id=731707391 is handled. Duration 237 ms by bot id=8665885053
+2026-06-26 19:27:11,171 | INFO     | aiogram.event | Update id=731707392 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 19:27:13,367 | INFO     | aiogram.event | Update id=731707393 is handled. Duration 233 ms by bot id=8665885053
+2026-06-26 19:27:15,041 | INFO     | aiogram.event | Update id=731707394 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 19:27:19,669 | INFO     | aiogram.event | Update id=731707395 is handled. Duration 248 ms by bot id=8665885053
+2026-06-26 19:31:39,310 | INFO     | aiogram.event | Update id=731707396 is handled. Duration 231 ms by bot id=8665885053
+2026-06-26 19:31:40,436 | INFO     | aiogram.event | Update id=731707397 is handled. Duration 227 ms by bot id=8665885053
+2026-06-26 19:31:46,133 | INFO     | handlers.payments | PURCHASE | 5561036312 купил forever ($150)
+2026-06-26 19:31:46,432 | INFO     | aiogram.event | Update id=731707398 is handled. Duration 431 ms by bot id=8665885053
+2026-06-26 19:31:49,277 | INFO     | aiogram.event | Update id=731707399 is handled. Duration 228 ms by bot id=8665885053
+2026-06-26 19:32:05,306 | INFO     | aiogram.event | Update id=731707400 is handled. Duration 233 ms by bot id=8665885053
+2026-06-26 19:32:06,279 | INFO     | aiogram.event | Update id=731707401 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 19:32:14,921 | INFO     | aiogram.event | Update id=731707402 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 19:36:11,859 | INFO     | aiogram.event | Update id=731707403 is handled. Duration 384 ms by bot id=8665885053
+2026-06-26 19:36:13,358 | INFO     | aiogram.event | Update id=731707404 is handled. Duration 297 ms by bot id=8665885053
+2026-06-26 19:36:14,826 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 19:36:14,955 | INFO     | aiogram.event | Update id=731707405 is handled. Duration 130 ms by bot id=8665885053
+2026-06-26 19:36:16,315 | INFO     | aiogram.event | Update id=731707406 is handled. Duration 238 ms by bot id=8665885053
+2026-06-26 19:36:17,681 | INFO     | aiogram.event | Update id=731707407 is handled. Duration 248 ms by bot id=8665885053
+2026-06-26 19:36:18,760 | INFO     | handlers.payments | PURCHASE | 5561036312 купил forever ($150)
+2026-06-26 19:36:19,010 | INFO     | aiogram.event | Update id=731707408 is handled. Duration 388 ms by bot id=8665885053
+2026-06-26 19:36:20,432 | INFO     | aiogram.event | Update id=731707409 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 19:36:24,240 | INFO     | aiogram.event | Update id=731707410 is handled. Duration 251 ms by bot id=8665885053
+2026-06-26 19:36:25,586 | INFO     | aiogram.event | Update id=731707411 is handled. Duration 232 ms by bot id=8665885053
+2026-06-26 19:37:59,999 | INFO     | aiogram.event | Update id=731707412 is handled. Duration 261 ms by bot id=8665885053
+2026-06-26 19:38:01,988 | INFO     | aiogram.event | Update id=731707413 is handled. Duration 305 ms by bot id=8665885053
+2026-06-26 19:38:03,243 | INFO     | handlers.payments | PURCHASE | 5561036312 купил 1m ($5)
+2026-06-26 19:38:03,496 | INFO     | aiogram.event | Update id=731707414 is handled. Duration 377 ms by bot id=8665885053
+2026-06-26 19:38:06,196 | INFO     | aiogram.event | Update id=731707415 is handled. Duration 236 ms by bot id=8665885053
+2026-06-26 19:38:07,420 | INFO     | aiogram.event | Update id=731707416 is handled. Duration 339 ms by bot id=8665885053
+2026-06-26 19:38:08,778 | INFO     | aiogram.event | Update id=731707417 is handled. Duration 232 ms by bot id=8665885053
+2026-06-26 19:38:10,460 | INFO     | handlers.payments | PURCHASE | 5561036312 купил forever ($150)
+2026-06-26 19:38:10,705 | INFO     | aiogram.event | Update id=731707418 is handled. Duration 389 ms by bot id=8665885053
+2026-06-26 19:38:14,091 | INFO     | aiogram.event | Update id=731707419 is handled. Duration 239 ms by bot id=8665885053
+2026-06-26 19:38:21,352 | INFO     | aiogram.event | Update id=731707420 is handled. Duration 238 ms by bot id=8665885053
+2026-06-26 19:38:22,564 | INFO     | aiogram.event | Update id=731707421 is handled. Duration 238 ms by bot id=8665885053
+2026-06-26 19:40:57,278 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 19:40:57,443 | INFO     | aiogram.event | Update id=731707422 is not handled. Duration 166 ms by bot id=8665885053
+2026-06-26 19:40:57,453 | ERROR    | aiogram.event | Cause exception while process update id=731707422 by bot id=8665885053
+TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+Traceback (most recent call last):
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 191, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "d:\neterror_bot\handlers\user.py", line 24, in cmd_start
+    await send_main_menu(message)
+  File "d:\neterror_bot\utils\texts.py", line 73, in send_main_menu
+    await message.answer(WELCOME_TEXT, reply_markup=main_menu())
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\session\base.py", line 127, in check_response
+    raise TelegramUnauthorizedError(method=method, message=description)
+aiogram.exceptions.TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+2026-06-26 19:40:57,809 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+2026-06-26 19:40:57,809 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 19:40:58,924 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2026-06-26 19:40:58,924 | WARNING  | aiogram.dispatcher | Sleep for 1.314510 seconds and try again... (tryings = 1, bot id = 8665885053)
+2026-06-26 19:41:00,342 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+2026-06-26 19:41:00,342 | WARNING  | aiogram.dispatcher | Sleep for 1.677199 seconds and try again... (tryings = 2, bot id = 8665885053)
+2026-06-26 19:41:02,123 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2026-06-26 19:41:02,123 | WARNING  | aiogram.dispatcher | Sleep for 2.222961 seconds and try again... (tryings = 3, bot id = 8665885053)
+2026-06-26 19:41:04,455 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+2026-06-26 19:41:04,455 | WARNING  | aiogram.dispatcher | Sleep for 2.908138 seconds and try again... (tryings = 4, bot id = 8665885053)
+2026-06-26 19:41:07,467 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2026-06-26 19:41:07,467 | WARNING  | aiogram.dispatcher | Sleep for 3.795885 seconds and try again... (tryings = 5, bot id = 8665885053)
+2026-06-26 19:41:11,365 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+2026-06-26 19:41:11,366 | WARNING  | aiogram.dispatcher | Sleep for 4.881506 seconds and try again... (tryings = 6, bot id = 8665885053)
+2026-06-26 19:41:16,353 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2026-06-26 19:41:16,353 | WARNING  | aiogram.dispatcher | Sleep for 4.902548 seconds and try again... (tryings = 7, bot id = 8665885053)
+2026-06-26 19:41:21,361 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized: SESSION_REVOKED
+2026-06-26 19:41:21,361 | WARNING  | aiogram.dispatcher | Sleep for 4.934714 seconds and try again... (tryings = 8, bot id = 8665885053)
+2026-06-26 19:41:26,408 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramUnauthorizedError: Telegram server says - Unauthorized
+2026-06-26 19:41:26,408 | WARNING  | aiogram.dispatcher | Sleep for 5.054969 seconds and try again... (tryings = 9, bot id = 8665885053)
+2026-06-26 19:42:11,980 | INFO     | neterror | База данных инициализирована.
+2026-06-26 19:42:12,200 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 19:42:12,201 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 19:42:15,439 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 19:42:15,542 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 19:42:18,867 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 19:42:19,390 | INFO     | aiogram.event | Update id=731707423 is handled. Duration 524 ms by bot id=8665885053
+2026-06-26 19:42:20,958 | INFO     | aiogram.event | Update id=731707424 is handled. Duration 441 ms by bot id=8665885053
+2026-06-26 19:42:21,651 | INFO     | aiogram.event | Update id=731707425 is handled. Duration 236 ms by bot id=8665885053
+2026-06-26 19:42:22,214 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 19:42:23,223 | INFO     | aiogram.event | Update id=731707426 is handled. Duration 948 ms by bot id=8665885053
+2026-06-26 19:42:27,043 | INFO     | aiogram.event | Update id=731707427 is handled. Duration 238 ms by bot id=8665885053
+2026-06-26 19:42:27,976 | INFO     | aiogram.event | Update id=731707428 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 19:44:02,352 | INFO     | neterror | База данных инициализирована.
+2026-06-26 19:44:02,583 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 19:44:02,583 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 19:44:03,058 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 19:44:03,165 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 19:44:11,708 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 19:44:12,136 | INFO     | aiogram.event | Update id=731707430 is handled. Duration 429 ms by bot id=8665885053
+2026-06-26 19:44:12,170 | INFO     | aiogram.event | Update id=731707429 is handled. Duration 569 ms by bot id=8665885053
+2026-06-26 19:44:12,596 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 19:44:41,023 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 19:44:41,023 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 19:44:42,452 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-26 19:44:43,063 | INFO     | aiogram.event | Update id=731707431 is not handled. Duration 610 ms by bot id=8665885053
+2026-06-26 19:44:43,064 | ERROR    | aiogram.event | Cause exception while process update id=731707431 by bot id=8665885053
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 191, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "d:\neterror_bot\handlers\user.py", line 61, in cb_buy
+    await call.answer()
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\artur\AppData\Roaming\Python\Python314\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-06-26 19:44:44,530 | INFO     | aiogram.event | Update id=731707432 is handled. Duration 269 ms by bot id=8665885053
+2026-06-26 19:44:47,368 | INFO     | aiogram.event | Update id=731707433 is handled. Duration 1028 ms by bot id=8665885053
+2026-06-26 19:49:09,824 | INFO     | aiogram.event | Update id=731707434 is handled. Duration 281 ms by bot id=8665885053
+2026-06-26 19:49:10,894 | INFO     | aiogram.event | Update id=731707435 is handled. Duration 246 ms by bot id=8665885053
+2026-06-26 19:49:12,897 | INFO     | aiogram.event | Update id=731707436 is handled. Duration 898 ms by bot id=8665885053
+2026-06-26 19:49:16,182 | INFO     | aiogram.event | Update id=731707437 is handled. Duration 979 ms by bot id=8665885053
+2026-06-26 19:56:08,558 | INFO     | neterror | База данных инициализирована.
+2026-06-26 19:56:08,729 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 19:56:08,729 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 19:56:09,204 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 19:56:09,307 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 19:56:13,042 | INFO     | aiogram.event | Update id=731707441 is handled. Duration 577 ms by bot id=8665885053
+2026-06-26 19:56:14,106 | INFO     | aiogram.event | Update id=731707442 is handled. Duration 265 ms by bot id=8665885053
+2026-06-26 19:56:15,050 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 19:56:15,184 | INFO     | aiogram.event | Update id=731707443 is handled. Duration 140 ms by bot id=8665885053
+2026-06-26 19:56:16,279 | INFO     | aiogram.event | Update id=731707444 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 19:56:17,129 | INFO     | aiogram.event | Update id=731707445 is handled. Duration 311 ms by bot id=8665885053
+2026-06-26 19:56:18,738 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 19:56:19,045 | INFO     | aiogram.event | Update id=731707446 is handled. Duration 1031 ms by bot id=8665885053
+2026-06-26 19:56:23,166 | INFO     | aiogram.event | Update id=731707447 is handled. Duration 702 ms by bot id=8665885053
+2026-06-26 19:56:33,855 | INFO     | aiogram.event | Update id=731707448 is handled. Duration 281 ms by bot id=8665885053
+2026-06-26 19:57:39,700 | INFO     | aiogram.event | Update id=731707449 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 19:57:43,230 | INFO     | aiogram.event | Update id=731707450 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 19:57:44,876 | INFO     | aiogram.event | Update id=731707451 is handled. Duration 281 ms by bot id=8665885053
+2026-06-26 19:59:57,458 | INFO     | aiogram.event | Update id=731707452 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 19:59:58,599 | INFO     | aiogram.event | Update id=731707453 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 19:59:59,701 | INFO     | aiogram.event | Update id=731707454 is handled. Duration 281 ms by bot id=8665885053
+2026-06-26 20:00:17,287 | INFO     | handlers.user | START | 7119279732 (@linwssii)
+2026-06-26 20:00:17,426 | INFO     | aiogram.event | Update id=731707455 is handled. Duration 155 ms by bot id=8665885053
+2026-06-26 20:00:25,600 | INFO     | aiogram.event | Update id=731707456 is not handled. Duration 0 ms by bot id=8665885053
+2026-06-26 20:00:43,766 | INFO     | handlers.user | START | 8626990635 (@VKksidex)
+2026-06-26 20:00:43,954 | INFO     | aiogram.event | Update id=731707457 is handled. Duration 188 ms by bot id=8665885053
+2026-06-26 20:00:45,170 | INFO     | aiogram.event | Update id=731707458 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:00:46,669 | INFO     | aiogram.event | Update id=731707459 is handled. Duration 406 ms by bot id=8665885053
+2026-06-26 20:00:48,010 | INFO     | aiogram.event | Update id=731707460 is handled. Duration 280 ms by bot id=8665885053
+2026-06-26 20:00:49,467 | INFO     | aiogram.event | Update id=731707461 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 20:00:53,261 | INFO     | aiogram.event | Update id=731707462 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:00:58,279 | INFO     | aiogram.event | Update id=731707463 is handled. Duration 266 ms by bot id=8665885053
+2026-06-26 20:00:59,746 | INFO     | aiogram.event | Update id=731707464 is handled. Duration 281 ms by bot id=8665885053
+2026-06-26 20:01:06,732 | INFO     | aiogram.event | Update id=731707465 is handled. Duration 1063 ms by bot id=8665885053
+2026-06-26 20:01:20,253 | INFO     | aiogram.event | Update id=731707466 is handled. Duration 875 ms by bot id=8665885053
+2026-06-26 20:01:25,356 | INFO     | aiogram.event | Update id=731707467 is handled. Duration 640 ms by bot id=8665885053
+2026-06-26 20:01:26,851 | INFO     | aiogram.event | Update id=731707468 is handled. Duration 688 ms by bot id=8665885053
+2026-06-26 20:01:28,268 | INFO     | aiogram.event | Update id=731707469 is handled. Duration 233 ms by bot id=8665885053
+2026-06-26 20:01:29,733 | INFO     | aiogram.event | Update id=731707470 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:01:35,388 | INFO     | aiogram.event | Update id=731707471 is handled. Duration 264 ms by bot id=8665885053
+2026-06-26 20:01:39,105 | INFO     | aiogram.event | Update id=731707472 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:01:44,812 | INFO     | aiogram.event | Update id=731707473 is handled. Duration 265 ms by bot id=8665885053
+2026-06-26 20:01:47,345 | INFO     | aiogram.event | Update id=731707474 is handled. Duration 218 ms by bot id=8665885053
+2026-06-26 20:04:16,557 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:04:16,729 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:04:16,730 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:04:17,286 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:04:17,390 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:04:26,740 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:05:02,156 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:05:02,601 | INFO     | aiogram.event | Update id=731707475 is handled. Duration 452 ms by bot id=8665885053
+2026-06-26 20:05:04,156 | INFO     | aiogram.event | Update id=731707476 is handled. Duration 328 ms by bot id=8665885053
+2026-06-26 20:05:05,437 | INFO     | aiogram.event | Update id=731707477 is handled. Duration 280 ms by bot id=8665885053
+2026-06-26 20:05:07,599 | INFO     | aiogram.event | Update id=731707478 is handled. Duration 1125 ms by bot id=8665885053
+2026-06-26 20:05:10,080 | INFO     | aiogram.event | Update id=731707479 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 20:05:10,869 | INFO     | aiogram.event | Update id=731707480 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 20:05:15,166 | INFO     | aiogram.event | Update id=731707481 is handled. Duration 264 ms by bot id=8665885053
+2026-06-26 20:05:16,447 | INFO     | aiogram.event | Update id=731707482 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:07:14,943 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:07:15,075 | INFO     | aiogram.event | Update id=731707483 is handled. Duration 125 ms by bot id=8665885053
+2026-06-26 20:09:20,666 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:09:20,830 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:09:20,831 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:09:21,307 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:09:21,414 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:09:26,105 | INFO     | aiogram.event | Update id=731707488 is handled. Duration 547 ms by bot id=8665885053
+2026-06-26 20:09:27,123 | INFO     | aiogram.event | Update id=731707489 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 20:09:28,832 | INFO     | aiogram.event | Update id=731707490 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:09:29,912 | INFO     | aiogram.event | Update id=731707491 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:09:30,398 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:09:30,542 | INFO     | aiogram.event | Update id=731707492 is handled. Duration 139 ms by bot id=8665885053
+2026-06-26 20:09:30,850 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:10:42,608 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:10:42,609 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:10:54,034 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-26 20:11:23,314 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:11:23,315 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:11:34,727 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-26 20:12:00,158 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:12:00,342 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:12:00,342 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:12:00,755 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:12:00,858 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:12:10,355 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:12:30,138 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:12:30,138 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:12:41,019 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-26 20:12:41,022 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:12:41,457 | INFO     | aiogram.event | Update id=731707493 is handled. Duration 436 ms by bot id=8665885053
+2026-06-26 20:14:59,010 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:14:59,193 | INFO     | aiogram.event | Update id=731707494 is handled. Duration 188 ms by bot id=8665885053
+2026-06-26 20:15:48,604 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:15:48,604 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:16:00,047 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-26 20:16:19,240 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:16:19,241 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:16:30,686 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-26 20:16:33,062 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:16:33,063 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:16:33,063 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:16:33,328 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:16:33,330 | INFO     | neterror | Остановлено.
+2026-06-26 20:17:18,652 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:17:18,829 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:17:18,829 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:17:24,389 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:17:24,494 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:17:28,828 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:17:40,053 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:17:40,229 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:17:40,386 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:17:43,465 | INFO     | aiogram.event | Update id=731707501 is handled. Duration 3078 ms by bot id=8665885053
+2026-06-26 20:17:43,488 | INFO     | aiogram.event | Update id=731707499 is handled. Duration 3437 ms by bot id=8665885053
+2026-06-26 20:17:44,528 | INFO     | aiogram.event | Update id=731707500 is handled. Duration 4296 ms by bot id=8665885053
+2026-06-26 20:19:09,811 | INFO     | handlers.user | START | 8626990635 (@VKksidex)
+2026-06-26 20:19:13,515 | INFO     | aiogram.event | Update id=731707502 is handled. Duration 3702 ms by bot id=8665885053
+2026-06-26 20:19:21,580 | INFO     | aiogram.event | Update id=731707503 is handled. Duration 453 ms by bot id=8665885053
+2026-06-26 20:19:22,795 | INFO     | aiogram.event | Update id=731707504 is handled. Duration 327 ms by bot id=8665885053
+2026-06-26 20:19:24,323 | INFO     | aiogram.event | Update id=731707505 is handled. Duration 328 ms by bot id=8665885053
+2026-06-26 20:19:26,727 | INFO     | aiogram.event | Update id=731707506 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:19:29,099 | INFO     | handlers.user | START | 8626990635 (@VKksidex)
+2026-06-26 20:19:32,053 | INFO     | aiogram.event | Update id=731707507 is handled. Duration 2953 ms by bot id=8665885053
+2026-06-26 20:19:58,693 | INFO     | aiogram.event | Update id=731707508 is handled. Duration 375 ms by bot id=8665885053
+2026-06-26 20:19:59,999 | INFO     | aiogram.event | Update id=731707509 is handled. Duration 265 ms by bot id=8665885053
+2026-06-26 20:20:20,246 | INFO     | aiogram.event | Update id=731707510 is handled. Duration 360 ms by bot id=8665885053
+2026-06-26 20:20:22,206 | INFO     | aiogram.event | Update id=731707511 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:20:27,139 | INFO     | aiogram.event | Update id=731707512 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:20:28,437 | INFO     | aiogram.event | Update id=731707513 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:21:37,786 | INFO     | aiogram.event | Update id=731707514 is not handled. Duration 0 ms by bot id=8665885053
+2026-06-26 20:21:42,942 | INFO     | handlers.user | START | 5955086327 (@goroskxpe)
+2026-06-26 20:21:45,081 | INFO     | aiogram.event | Update id=731707515 is handled. Duration 2140 ms by bot id=8665885053
+2026-06-26 20:21:45,784 | INFO     | aiogram.event | Update id=731707516 is handled. Duration 311 ms by bot id=8665885053
+2026-06-26 20:21:47,179 | INFO     | aiogram.event | Update id=731707517 is handled. Duration 422 ms by bot id=8665885053
+2026-06-26 20:21:50,420 | INFO     | aiogram.event | Update id=731707518 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:21:52,702 | INFO     | aiogram.event | Update id=731707519 is handled. Duration 344 ms by bot id=8665885053
+2026-06-26 20:21:53,440 | INFO     | aiogram.event | Update id=731707520 is handled. Duration 687 ms by bot id=8665885053
+2026-06-26 20:21:56,029 | INFO     | aiogram.event | Update id=731707521 is handled. Duration 390 ms by bot id=8665885053
+2026-06-26 20:21:57,822 | INFO     | aiogram.event | Update id=731707522 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 20:28:49,658 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:28:49,659 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:28:49,659 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:28:49,922 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:28:49,923 | INFO     | neterror | Остановлено.
+2026-06-26 20:29:01,401 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:29:01,577 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:29:01,577 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:29:02,126 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:29:02,234 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:29:11,590 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:29:29,151 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:29:32,617 | INFO     | aiogram.event | Update id=731707523 is handled. Duration 3469 ms by bot id=8665885053
+2026-06-26 20:29:35,232 | INFO     | aiogram.event | Update id=731707524 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:29:40,667 | INFO     | aiogram.event | Update id=731707525 is handled. Duration 4108 ms by bot id=8665885053
+2026-06-26 20:29:45,533 | INFO     | aiogram.event | Update id=731707526 is handled. Duration 343 ms by bot id=8665885053
+2026-06-26 20:29:50,486 | INFO     | aiogram.event | Update id=731707527 is handled. Duration 3875 ms by bot id=8665885053
+2026-06-26 20:30:01,801 | INFO     | aiogram.event | Update id=731707528 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:30:05,973 | INFO     | aiogram.event | Update id=731707529 is handled. Duration 3030 ms by bot id=8665885053
+2026-06-26 20:32:37,480 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:32:37,481 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:32:37,481 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:32:37,736 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:32:37,737 | INFO     | neterror | Остановлено.
+2026-06-26 20:32:42,816 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:32:42,980 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:32:42,980 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:32:43,389 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:32:43,499 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:32:52,997 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:33:00,704 | INFO     | aiogram.event | Update id=731707530 is handled. Duration 610 ms by bot id=8665885053
+2026-06-26 20:33:03,140 | INFO     | handlers.user | START | 8626990635 (@VKksidex)
+2026-06-26 20:33:05,250 | INFO     | aiogram.event | Update id=731707531 is handled. Duration 3344 ms by bot id=8665885053
+2026-06-26 20:33:07,590 | INFO     | aiogram.event | Update id=731707533 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:33:07,883 | INFO     | aiogram.event | Update id=731707532 is handled. Duration 4750 ms by bot id=8665885053
+2026-06-26 20:33:13,240 | INFO     | aiogram.event | Update id=731707534 is handled. Duration 344 ms by bot id=8665885053
+2026-06-26 20:33:17,637 | INFO     | aiogram.event | Update id=731707535 is handled. Duration 3061 ms by bot id=8665885053
+2026-06-26 20:33:17,773 | INFO     | aiogram.event | Update id=731707536 is handled. Duration 360 ms by bot id=8665885053
+2026-06-26 20:33:24,447 | INFO     | aiogram.event | Update id=731707537 is handled. Duration 2860 ms by bot id=8665885053
+2026-06-26 20:34:36,675 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:34:36,677 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:34:36,677 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:34:36,929 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:34:36,930 | INFO     | neterror | Остановлено.
+2026-06-26 20:34:43,685 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:34:43,859 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:34:43,860 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:34:44,366 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:34:44,469 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:34:51,725 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:34:53,866 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:34:55,530 | INFO     | aiogram.event | Update id=731707538 is handled. Duration 3796 ms by bot id=8665885053
+2026-06-26 20:34:57,644 | INFO     | aiogram.event | Update id=731707539 is handled. Duration 360 ms by bot id=8665885053
+2026-06-26 20:34:59,819 | INFO     | aiogram.event | Update id=731707540 is handled. Duration 1047 ms by bot id=8665885053
+2026-06-26 20:35:09,812 | INFO     | aiogram.event | Update id=731707541 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:35:14,019 | INFO     | aiogram.event | Update id=731707542 is handled. Duration 3030 ms by bot id=8665885053
+2026-06-26 20:35:15,813 | INFO     | aiogram.event | Update id=731707543 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:35:17,289 | INFO     | aiogram.event | Update id=731707544 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:35:19,740 | INFO     | aiogram.event | Update id=731707545 is handled. Duration 1360 ms by bot id=8665885053
+2026-06-26 20:35:21,399 | INFO     | aiogram.event | Update id=731707546 is handled. Duration 235 ms by bot id=8665885053
+2026-06-26 20:35:26,093 | INFO     | aiogram.event | Update id=731707547 is handled. Duration 234 ms by bot id=8665885053
+2026-06-26 20:36:43,664 | INFO     | aiogram.event | Update id=731707548 is handled. Duration 250 ms by bot id=8665885053
+2026-06-26 20:36:48,785 | INFO     | aiogram.event | Update id=731707550 is handled. Duration 764 ms by bot id=8665885053
+2026-06-26 20:36:49,315 | INFO     | aiogram.event | Update id=731707549 is handled. Duration 3734 ms by bot id=8665885053
+2026-06-26 20:36:57,616 | INFO     | aiogram.event | Update id=731707551 is handled. Duration 296 ms by bot id=8665885053
+2026-06-26 20:38:17,529 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:38:17,531 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:38:17,531 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:38:17,786 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:38:17,787 | INFO     | neterror | Остановлено.
+2026-06-26 20:38:22,318 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:38:22,495 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:38:22,495 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:38:22,987 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:38:23,092 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:38:28,927 | INFO     | aiogram.event | Update id=731707552 is handled. Duration 672 ms by bot id=8665885053
+2026-06-26 20:38:32,507 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:38:33,797 | INFO     | aiogram.event | Update id=731707553 is handled. Duration 3905 ms by bot id=8665885053
+2026-06-26 20:38:43,037 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:38:44,339 | INFO     | aiogram.event | Update id=731707554 is handled. Duration 1297 ms by bot id=8665885053
+2026-06-26 20:38:45,789 | INFO     | aiogram.event | Update id=731707555 is handled. Duration 342 ms by bot id=8665885053
+2026-06-26 20:38:49,547 | INFO     | aiogram.event | Update id=731707556 is handled. Duration 2858 ms by bot id=8665885053
+2026-06-26 20:40:23,861 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:40:23,862 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:40:23,862 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:40:24,119 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:40:24,120 | INFO     | neterror | Остановлено.
+2026-06-26 20:40:29,664 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:40:29,836 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:40:29,836 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:40:30,334 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:40:30,436 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:40:39,858 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:40:39,925 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:40:43,780 | INFO     | aiogram.event | Update id=731707558 is handled. Duration 3860 ms by bot id=8665885053
+2026-06-26 20:41:10,155 | INFO     | aiogram.event | Update id=731707559 is handled. Duration 360 ms by bot id=8665885053
+2026-06-26 20:41:13,180 | INFO     | aiogram.event | Update id=731707560 is handled. Duration 1656 ms by bot id=8665885053
+2026-06-26 20:42:50,426 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:42:50,427 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:42:50,427 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:42:50,685 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:42:50,686 | INFO     | neterror | Остановлено.
+2026-06-26 20:46:16,718 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:46:16,890 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:46:16,890 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:46:17,387 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:46:17,489 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:46:26,894 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:47:15,174 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:47:18,571 | INFO     | aiogram.event | Update id=731707562 is handled. Duration 3407 ms by bot id=8665885053
+2026-06-26 20:47:19,212 | INFO     | aiogram.event | Update id=731707563 is handled. Duration 687 ms by bot id=8665885053
+2026-06-26 20:47:24,315 | INFO     | aiogram.event | Update id=731707564 is handled. Duration 3766 ms by bot id=8665885053
+2026-06-26 20:47:24,776 | INFO     | aiogram.event | Update id=731707565 is handled. Duration 375 ms by bot id=8665885053
+2026-06-26 20:47:26,958 | INFO     | aiogram.event | Update id=731707566 is handled. Duration 968 ms by bot id=8665885053
+2026-06-26 20:47:44,147 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:47:45,695 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:47:47,797 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-26 20:47:48,244 | INFO     | aiogram.event | Update id=731707567 is handled. Duration 4094 ms by bot id=8665885053
+2026-06-26 20:47:48,819 | INFO     | aiogram.event | Update id=731707568 is handled. Duration 3125 ms by bot id=8665885053
+2026-06-26 20:47:51,189 | INFO     | aiogram.event | Update id=731707569 is handled. Duration 3391 ms by bot id=8665885053
+2026-06-26 20:47:53,797 | INFO     | aiogram.event | Update id=731707570 is handled. Duration 561 ms by bot id=8665885053
+2026-06-26 20:48:02,834 | INFO     | aiogram.event | Update id=731707571 is handled. Duration 2812 ms by bot id=8665885053
+2026-06-26 20:48:25,210 | INFO     | aiogram.event | Update id=731707572 is handled. Duration 389 ms by bot id=8665885053
+2026-06-26 20:48:35,704 | INFO     | aiogram.event | Update id=731707573 is handled. Duration 1797 ms by bot id=8665885053
+2026-06-26 20:49:36,451 | INFO     | aiogram.event | Update id=731707574 is handled. Duration 469 ms by bot id=8665885053
+2026-06-26 20:49:37,600 | INFO     | aiogram.event | Update id=731707575 is handled. Duration 359 ms by bot id=8665885053
+2026-06-26 20:49:40,809 | INFO     | aiogram.event | Update id=731707576 is handled. Duration 1187 ms by bot id=8665885053
+2026-06-26 20:49:43,737 | INFO     | aiogram.event | Update id=731707577 is handled. Duration 671 ms by bot id=8665885053
+2026-06-26 20:49:48,148 | INFO     | aiogram.event | Update id=731707579 is handled. Duration 360 ms by bot id=8665885053
+2026-06-26 20:49:48,269 | INFO     | aiogram.event | Update id=731707578 is handled. Duration 985 ms by bot id=8665885053
+2026-06-26 20:49:50,822 | INFO     | aiogram.event | Update id=731707580 is handled. Duration 1735 ms by bot id=8665885053
+2026-06-26 20:52:04,811 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-26 20:52:04,812 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-26 20:52:04,812 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-26 20:52:05,074 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:52:05,074 | INFO     | neterror | Остановлено.
+2026-06-26 20:52:23,479 | INFO     | neterror | База данных инициализирована.
+2026-06-26 20:52:23,655 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-26 20:52:23,655 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-26 20:52:24,220 | INFO     | aiogram.dispatcher | Start polling
+2026-06-26 20:52:24,325 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-26 20:52:33,664 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-26 20:52:48,673 | INFO     | aiogram.event | Update id=731707581 is handled. Duration 733 ms by bot id=8665885053
+2026-06-26 20:52:53,287 | INFO     | aiogram.event | Update id=731707582 is handled. Duration 3750 ms by bot id=8665885053
+2026-06-26 20:55:37,592 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-06-26 20:55:37,604 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 15:52:52,014 | INFO     | neterror | База данных инициализирована.
+2026-06-27 15:52:52,183 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-27 15:52:52,184 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-27 15:52:52,694 | INFO     | aiogram.dispatcher | Start polling
+2026-06-27 15:52:52,807 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 15:53:02,190 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-27 15:53:23,270 | INFO     | aiogram.event | Update id=731707587 is handled. Duration 718 ms by bot id=8665885053
+2026-06-27 15:53:27,397 | INFO     | aiogram.event | Update id=731707588 is handled. Duration 2812 ms by bot id=8665885053
+2026-06-27 15:53:36,170 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-27 15:53:40,147 | INFO     | aiogram.event | Update id=731707589 is handled. Duration 3984 ms by bot id=8665885053
+2026-06-27 15:53:42,450 | INFO     | aiogram.event | Update id=731707590 is handled. Duration 468 ms by bot id=8665885053
+2026-06-27 15:53:44,349 | INFO     | aiogram.event | Update id=731707591 is handled. Duration 781 ms by bot id=8665885053
+2026-06-27 15:53:50,509 | INFO     | aiogram.event | Update id=731707592 is handled. Duration 375 ms by bot id=8665885053
+2026-06-27 15:53:55,064 | INFO     | aiogram.event | Update id=731707593 is handled. Duration 3515 ms by bot id=8665885053
+2026-06-27 15:53:59,468 | INFO     | aiogram.event | Update id=731707594 is handled. Duration 421 ms by bot id=8665885053
+2026-06-27 15:54:02,937 | INFO     | aiogram.event | Update id=731707595 is handled. Duration 2515 ms by bot id=8665885053
+2026-06-27 15:55:10,158 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-27 15:55:10,159 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 15:55:21,595 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8665885053)
+2026-06-27 15:55:50,563 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-27 15:55:50,564 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-27 15:55:50,565 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 15:55:50,823 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 15:55:50,824 | INFO     | neterror | Остановлено.
+2026-06-27 15:56:37,075 | INFO     | neterror | База данных инициализирована.
+2026-06-27 15:56:37,243 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-27 15:56:37,243 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-27 15:56:37,727 | INFO     | aiogram.dispatcher | Start polling
+2026-06-27 15:56:37,835 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 15:56:45,820 | INFO     | aiogram.event | Update id=731707598 is handled. Duration 766 ms by bot id=8665885053
+2026-06-27 15:56:47,252 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-27 15:56:50,593 | INFO     | aiogram.event | Update id=731707599 is handled. Duration 3406 ms by bot id=8665885053
+2026-06-27 15:57:02,005 | INFO     | aiogram.event | Update id=731707600 is handled. Duration 422 ms by bot id=8665885053
+2026-06-27 15:57:05,993 | INFO     | aiogram.event | Update id=731707601 is handled. Duration 2141 ms by bot id=8665885053
+2026-06-27 15:57:42,692 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-27 15:57:47,301 | INFO     | aiogram.event | Update id=731707602 is handled. Duration 4608 ms by bot id=8665885053
+2026-06-27 15:57:50,758 | INFO     | aiogram.event | Update id=731707603 is handled. Duration 422 ms by bot id=8665885053
+2026-06-27 15:58:00,417 | INFO     | aiogram.event | Update id=731707604 is handled. Duration 4234 ms by bot id=8665885053
+2026-06-27 15:58:05,693 | INFO     | aiogram.event | Update id=731707605 is handled. Duration 375 ms by bot id=8665885053
+2026-06-27 15:58:11,286 | INFO     | aiogram.event | Update id=731707606 is handled. Duration 3765 ms by bot id=8665885053
+2026-06-27 15:58:18,808 | INFO     | aiogram.event | Update id=731707607 is handled. Duration 390 ms by bot id=8665885053
+2026-06-27 15:58:20,544 | INFO     | aiogram.event | Update id=731707608 is handled. Duration 375 ms by bot id=8665885053
+2026-06-27 16:00:42,881 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-27 16:00:42,882 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-27 16:00:42,883 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 16:00:43,134 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:00:43,135 | INFO     | neterror | Остановлено.
+2026-06-27 16:00:50,164 | INFO     | neterror | База данных инициализирована.
+2026-06-27 16:00:50,343 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-27 16:00:50,343 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-27 16:00:50,829 | INFO     | aiogram.dispatcher | Start polling
+2026-06-27 16:00:50,947 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:00:57,773 | INFO     | aiogram.event | Update id=731707609 is handled. Duration 672 ms by bot id=8665885053
+2026-06-27 16:01:00,351 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-27 16:01:01,166 | INFO     | aiogram.event | Update id=731707610 is handled. Duration 2250 ms by bot id=8665885053
+2026-06-27 16:01:03,241 | INFO     | aiogram.event | Update id=731707611 is handled. Duration 359 ms by bot id=8665885053
+2026-06-27 16:01:07,474 | INFO     | aiogram.event | Update id=731707612 is handled. Duration 2577 ms by bot id=8665885053
+2026-06-27 16:01:11,017 | INFO     | aiogram.event | Update id=731707613 is handled. Duration 359 ms by bot id=8665885053
+2026-06-27 16:01:12,632 | INFO     | aiogram.event | Update id=731707614 is handled. Duration 359 ms by bot id=8665885053
+2026-06-27 16:01:15,554 | INFO     | aiogram.event | Update id=731707615 is handled. Duration 921 ms by bot id=8665885053
+2026-06-27 16:01:17,992 | INFO     | aiogram.event | Update id=731707616 is handled. Duration 484 ms by bot id=8665885053
+2026-06-27 16:01:21,505 | INFO     | aiogram.event | Update id=731707617 is handled. Duration 2875 ms by bot id=8665885053
+2026-06-27 16:01:22,769 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-27 16:01:26,660 | INFO     | aiogram.event | Update id=731707618 is handled. Duration 3905 ms by bot id=8665885053
+2026-06-27 16:01:33,178 | INFO     | aiogram.event | Update id=731707619 is handled. Duration 375 ms by bot id=8665885053
+2026-06-27 16:01:34,444 | INFO     | aiogram.event | Update id=731707620 is handled. Duration 359 ms by bot id=8665885053
+2026-06-27 16:01:35,858 | INFO     | aiogram.event | Update id=731707621 is handled. Duration 358 ms by bot id=8665885053
+2026-06-27 16:02:30,166 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-27 16:02:30,167 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-27 16:02:30,167 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 16:02:30,426 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:02:30,428 | INFO     | neterror | Остановлено.
+2026-06-27 16:02:54,774 | INFO     | neterror | База данных инициализирована.
+2026-06-27 16:02:54,940 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-27 16:02:54,940 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-27 16:02:55,379 | INFO     | aiogram.dispatcher | Start polling
+2026-06-27 16:02:55,491 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:02:59,029 | INFO     | handlers.user | START | 5561036312 (@m0ssveil)
+2026-06-27 16:03:02,469 | INFO     | aiogram.event | Update id=731707623 is handled. Duration 3437 ms by bot id=8665885053
+2026-06-27 16:03:04,966 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-27 16:03:07,806 | INFO     | aiogram.event | Update id=731707624 is handled. Duration 390 ms by bot id=8665885053
+2026-06-27 16:03:09,421 | INFO     | aiogram.event | Update id=731707625 is handled. Duration 390 ms by bot id=8665885053
+2026-06-27 16:03:13,374 | INFO     | aiogram.event | Update id=731707626 is handled. Duration 1578 ms by bot id=8665885053
+2026-06-27 16:03:16,347 | INFO     | aiogram.event | Update id=731707627 is handled. Duration 468 ms by bot id=8665885053
+2026-06-27 16:03:18,243 | INFO     | aiogram.event | Update id=731707628 is handled. Duration 406 ms by bot id=8665885053
+2026-06-27 16:13:22,742 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-27 16:13:22,743 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-27 16:13:22,743 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 16:13:23,005 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:13:23,007 | INFO     | neterror | Остановлено.
+2026-06-27 16:13:30,277 | INFO     | neterror | База данных инициализирована.
+2026-06-27 16:13:30,465 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-27 16:13:30,465 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-27 16:13:30,973 | INFO     | aiogram.dispatcher | Start polling
+2026-06-27 16:13:31,087 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:13:40,472 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-27 16:14:02,485 | INFO     | aiogram.event | Update id=731707629 is handled. Duration 719 ms by bot id=8665885053
+2026-06-27 16:14:04,149 | INFO     | aiogram.event | Update id=731707630 is handled. Duration 530 ms by bot id=8665885053
+2026-06-27 16:14:07,963 | INFO     | aiogram.event | Update id=731707631 is handled. Duration 1047 ms by bot id=8665885053
+2026-06-27 16:16:46,601 | INFO     | aiogram.dispatcher | Polling stopped
+2026-06-27 16:16:46,602 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-06-27 16:16:46,602 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8665885053)
+2026-06-27 16:16:46,863 | INFO     | aiogram.dispatcher | Polling stopped for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:16:46,864 | INFO     | neterror | Остановлено.
+2026-06-27 16:16:59,383 | INFO     | neterror | База данных инициализирована.
+2026-06-27 16:16:59,562 | INFO     | utils.scheduler | Фоновый контроль подписок запущен (интервал 86400 c).
+2026-06-27 16:16:59,562 | INFO     | neterror | NetErrror запущен. Polling...
+2026-06-27 16:17:00,050 | INFO     | aiogram.dispatcher | Start polling
+2026-06-27 16:17:00,161 | INFO     | aiogram.dispatcher | Run polling for bot @neterr0rer_bot id=8665885053 - 'neterrror private bot'
+2026-06-27 16:17:01,032 | INFO     | aiogram.event | Update id=731707632 is handled. Duration 750 ms by bot id=8665885053
+2026-06-27 16:17:02,715 | INFO     | aiogram.event | Update id=731707633 is handled. Duration 436 ms by bot id=8665885053
+2026-06-27 16:17:05,143 | INFO     | aiogram.event | Update id=731707634 is handled. Duration 983 ms by bot id=8665885053
+2026-06-27 16:17:09,297 | INFO     | aiogram.event | Update id=731707635 is handled. Duration 420 ms by bot id=8665885053
+2026-06-27 16:17:09,574 | INFO     | utils.scheduler | Проверка подписок: истёкших не найдено.
+2026-06-27 16:17:11,271 | INFO     | aiogram.event | Update id=731707636 is handled. Duration 391 ms by bot id=8665885053
+2026-06-27 16:17:12,653 | INFO     | aiogram.event | Update id=731707637 is handled. Duration 375 ms by bot id=8665885053
+2026-06-27 16:17:17,471 | INFO     | aiogram.event | Update id=731707638 is handled. Duration 4077 ms by bot id=8665885053
+2026-06-27 16:18:11,728 | INFO     | aiogram.event | Update id=731707639 is not handled. Duration 16 ms by bot id=8665885053
+2026-06-27 16:18:21,695 | INFO     | aiogram.event | Update id=731707640 is handled. Duration 391 ms by bot id=8665885053
+2026-06-27 16:18:25,010 | INFO     | aiogram.event | Update id=731707641 is handled. Duration 2327 ms by bot id=8665885053
+2026-06-27 16:18:29,673 | INFO     | aiogram.event | Update id=731707642 is handled. Duration 170 ms by bot id=8665885053
+2026-06-27 16:18:34,703 | INFO     | aiogram.event | Update id=731707643 is handled. Duration 250 ms by bot id=8665885053
+2026-06-27 16:18:44,597 | INFO     | handlers.admin | ADMIN 5561036312 рассылка (3 ok / 1 err)
+2026-06-27 16:18:44,736 | INFO     | aiogram.event | Update id=731707644 is handled. Duration 1079 ms by bot id=8665885053
+2026-06-27 16:18:51,602 | INFO     | aiogram.event | Update id=731707645 is handled. Duration 250 ms by bot id=8665885053
+2026-06-27 16:18:54,840 | INFO     | aiogram.event | Update id=731707646 is handled. Duration 311 ms by bot id=8665885053
+2026-06-27 16:18:57,193 | INFO     | aiogram.event | Update id=731707647 is handled. Duration 282 ms by bot id=8665885053
+2026-06-27 16:19:02,350 | INFO     | aiogram.event | Update id=731707648 is handled. Duration 250 ms by bot id=8665885053
+2026-06-27 16:19:04,456 | INFO     | aiogram.event | Update id=731707649 is handled. Duration 452 ms by bot id=8665885053
+2026-06-27 16:19:06,994 | INFO     | aiogram.event | Update id=731707650 is handled. Duration 360 ms by bot id=8665885053
+2026-06-27 16:19:11,949 | INFO     | aiogram.event | Update id=731707651 is handled. Duration 250 ms by bot id=8665885053
+2026-06-27 16:19:16,346 | INFO     | aiogram.event | Update id=731707652 is handled. Duration 2438 ms by bot id=8665885053
